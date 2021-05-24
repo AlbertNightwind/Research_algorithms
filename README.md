@@ -1,3 +1,7 @@
-# Research_algorithms
+# pyAHP
+AHP(Analytic hierarchy process) in Python  
 
-This file about the research algorithms, I will try to implement some algorithms or tools with python code methods, this will update by the need of research or project experience.
+https://en.wikipedia.org/wiki/Analytic_hierarchy_process  
+
+The program implement the simplest 3-layer AHP, just give your alternatives and criterions in corresponding txt file and follow the command.  
+The 1-9 method is used to make comparison between two units.  
