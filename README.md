@@ -1,5 +1,5 @@
 # Analytic hierarchy process
-AHP(Analytic hierarchy process) in Python  
+AHP(Analytic hierarchy process) in Python and Jupyter notebook
 
 https://en.wikipedia.org/wiki/Analytic_hierarchy_process  
 
