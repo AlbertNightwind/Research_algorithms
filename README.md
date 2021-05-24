@@ -1,4 +1,4 @@
-# pyAHP
+# Analytic hierarchy process
 AHP(Analytic hierarchy process) in Python  
 
 https://en.wikipedia.org/wiki/Analytic_hierarchy_process  
